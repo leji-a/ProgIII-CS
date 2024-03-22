@@ -1,0 +1,11 @@
+C:\Users\UTN\Desktop\progque\alumno\bin\Debug\alumno.exe.config
+C:\Users\UTN\Desktop\progque\alumno\bin\Debug\alumno.exe
+C:\Users\UTN\Desktop\progque\alumno\bin\Debug\alumno.pdb
+C:\Users\UTN\Desktop\progque\alumno\obj\Debug\alumno.csproj.AssemblyReference.cache
+C:\Users\UTN\Desktop\progque\alumno\obj\Debug\alumno.csproj.SuggestedBindingRedirects.cache
+C:\Users\UTN\Desktop\progque\alumno\obj\Debug\alumno.Form1.resources
+C:\Users\UTN\Desktop\progque\alumno\obj\Debug\alumno.Properties.Resources.resources
+C:\Users\UTN\Desktop\progque\alumno\obj\Debug\alumno.csproj.GenerateResource.cache
+C:\Users\UTN\Desktop\progque\alumno\obj\Debug\alumno.csproj.CoreCompileInputs.cache
+C:\Users\UTN\Desktop\progque\alumno\obj\Debug\alumno.exe
+C:\Users\UTN\Desktop\progque\alumno\obj\Debug\alumno.pdb
